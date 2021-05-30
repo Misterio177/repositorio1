@@ -21,6 +21,7 @@ public class PJRepositorio {
         System.out.println("Hola Guillermo");
         System.out.println("Profesor no se olvide nuestro 20 en el curso");
         System.out.println("PLis");
+        System.out.println("La cosa solo es tener amigos para compartir tu trabajo");
     }
     
 }
