@@ -28,6 +28,8 @@ public class PJRepositorio {
         System.out.println("La cosa solo es tener amigos para compartir tu trabajo");
         System.out.println("La cosa solo es tener amigos para compartir tu trabajo");
         System.out.println("La cosa solo es tener amigos para compartir tu trabajo");
+        System.out.println("------------------------------------------------------");
+        System.out.println("Ponganos 20");
     }
     
 }
